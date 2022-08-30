@@ -23,6 +23,11 @@ Tools used in achieving the goals;
 * Power BI - for visualizations
 * Charts - to visualise results
 
+
+## Churn Category and Reasons
+
+![Screenshot (102)](https://user-images.githubusercontent.com/103642582/187445632-b959d2e1-67bc-4965-8257-d9dd84d78728.png)
+
 ## End Results
 Recommendation from analysis
 *	Having customers who left due to higher prices and extra data charges, while competitors are providing better and lower prices based on the reasons given why customers churned, it is recommended to increase data offer and match prices while also improving internet speed.
