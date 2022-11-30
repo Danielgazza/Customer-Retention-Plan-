@@ -11,7 +11,26 @@ First quarter of 2022 has ended, Maven Telecom company requires a full analysis 
 * improve retention by identifying high-value customers and; 
 * churn risks 
 
-## Methodology
+## Questions
+
+what this project will be addressing
+
+1. Identification of high value customers;
+
+To identify high value customers, we will use attribute from the record such as 
+
+      a. Using the records attribute (columns)to determine high value customers e.g., Monthly charge, 
+          Total charges, extra data charges premium Tech Support etc.
+      
+      b. Identifying cities with more customers and going further to see cities with these high value customers.
+      
+      c. Using our services and product to identify high value customers e.g., internet type, offer, contract etc.
+      
+2. Churn ricks;
+
+       We can see from the record that we have customers who churned; we will conduct a deep dive to determine 
+       the reason for churn and whether our services influenced this.
+
 
 
 Tools used in achieving the goals;
